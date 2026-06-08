@@ -1,0 +1,19 @@
+{
+  "name": "tencent-research-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "腾讯研究院 AI 研究情报库 · 克莱因蓝 + 白色调的可检索研究情报索引",
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve . -l 5173",
+    "start": "npx --yes serve . -l 5173"
+  },
+  "keywords": [
+    "tencent-research",
+    "ai",
+    "research",
+    "klein-blue",
+    "static-site"
+  ],
+  "license": "MIT"
+}

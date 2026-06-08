@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>腾讯研究院 AI 研究情报库 · TRI Intelligence</title>
+    <meta
+      name="description"
+      content="汇集腾讯研究院 2026 年 AI 相关研究文章，按主题、月份与关键词可检索、可筛选、可追踪的研究情报入口。"
+    />
+    <meta name="theme-color" content="#002fa7" />
+    <meta name="author" content="Tencent Research Institute" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="腾讯研究院 AI 研究情报库" />
+    <meta
+      property="og:description"
+      content="AI 技术、产业商业化、治理社会、文化内容与公共服务的研究情报索引。"
+    />
+    <meta property="og:image" content="./hero-knowledge.png" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="preload" as="image" href="./hero-knowledge.png" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="返回顶部">
+        <span class="brand-mark"></span>
+        <span>TRI Intelligence</span>
+      </a>
+      <nav class="nav">
+        <a href="#themes">主题</a>
+        <a href="#featured">精选</a>
+        <a href="#archive">归档</a>
+        <a href="#library">检索</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-media" aria-hidden="true">
+          <img src="./hero-knowledge.png" alt="" />
+        </div>
+        <div class="hero-inner">
+          <p class="eyebrow">Tencent Research Institute · 2026</p>
+          <h1>腾讯研究院 AI 研究情报库</h1>
+          <p class="hero-copy">
+            汇集 2026 年腾讯研究院公众号文章，围绕 AI 技术、产业商业化、治理社会、文化内容与公共服务，形成可检索、可筛选、可追踪的研究入口。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#library">浏览文章</a>
+            <a class="secondary-action" href="#featured">查看精选</a>
+          </div>
+          <div class="metric-strip" aria-label="内容概览">
+            <div>
+              <strong id="metric-total">235</strong>
+              <span>篇文章</span>
+            </div>
+            <div>
+              <strong id="metric-themes">6</strong>
+              <span>研究主题</span>
+            </div>
+            <div>
+              <strong id="metric-months">6</strong>
+              <span>月份归档</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="themes" class="section themes-section">
+        <div class="section-heading">
+          <p class="eyebrow">Research Map</p>
+          <h2>主题视图</h2>
+        </div>
+        <div id="theme-grid" class="theme-grid"></div>
+      </section>
+
+      <section id="featured" class="section feature-section">
+        <div class="section-heading">
+          <p class="eyebrow">Selected Reports</p>
+          <h2>精选阅读</h2>
+        </div>
+        <div id="featured-grid" class="featured-grid"></div>
+      </section>
+
+      <section id="archive" class="section archive-section">
+        <div class="archive-panel">
+          <div class="section-heading compact">
+            <p class="eyebrow">Archive</p>
+            <h2>月度归档</h2>
+          </div>
+          <div id="month-bars" class="month-bars"></div>
+        </div>
+        <div class="insight-panel">
+          <p class="eyebrow">Signal</p>
+          <h2>内容信号</h2>
+          <p>
+            高频主题集中在 AI 速递、Token 经济、产业落地、AI 与社会关系、数字文化与公共服务。该页面把文章整理为可扫描的商业研究索引，适合快速寻找专题线索。
+          </p>
+        </div>
+      </section>
+
+      <section id="library" class="section library-section">
+        <div class="library-head">
+          <div class="section-heading compact">
+            <p class="eyebrow">Library</p>
+            <h2>文章检索</h2>
+          </div>
+          <div class="search-wrap">
+            <input id="search-input" type="search" placeholder="搜索标题、主题或日期" autocomplete="off" />
+          </div>
+        </div>
+        <div class="filters">
+          <div id="theme-filters" class="chip-row" aria-label="主题筛选"></div>
+          <div id="month-filters" class="chip-row" aria-label="月份筛选"></div>
+        </div>
+        <div class="result-meta">
+          <span id="result-count"></span>
+          <button id="reset-filters" type="button">重置</button>
+        </div>
+        <div id="article-list" class="article-list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>TRI Intelligence · Feishu Wiki Content Hub</span>
+      <a href="https://ycn3zdw6f1p7.feishu.cn/wiki/Vh5BwZvsCiS8xmk3DibcxFyjnuh" target="_blank" rel="noreferrer">飞书知识库</a>
+    </footer>
+
+    <script src="./articles.js"></script>
+    <script src="./app.js"></script>
+    <script src="./interactions.js"></script>
+  </body>
+</html>
