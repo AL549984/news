@@ -2113,5 +2113,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/J7jjwzGBciPWCGklT6CcfV1qnRh",
     "images": 2,
     "theme": "AI 治理与社会"
+  },
+  {
+    "title": "AI时代，一种新经济正在长出来｜智联网·价值篇",
+    "fullTitle": "AI时代，一种新经济正在长出来｜智联网·价值篇（2026 年 6 月 9 日）",
+    "date": "2026 年 6 月 9 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HiFfwXfMZi2KnekxkhCcleF2nmc",
+    "images": 6,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260609",
+    "fullTitle": "腾讯研究院AI速递 20260609（2026 年 6 月 9 日）",
+    "date": "2026 年 6 月 9 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AcbOwreqmi2m8IkLQNnc1OgEnxb",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
