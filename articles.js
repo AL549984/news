@@ -2158,5 +2158,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WByUwaMgki5JAOkFEMzc66wyndg",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "人是最慢的节点，还怎么管AI Agent？｜AI跃迁者调研",
+    "fullTitle": "人是最慢的节点，还怎么管AI Agent？｜AI跃迁者调研（2026 年 6 月 11 日）",
+    "date": "2026 年 6 月 11 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PShtwj0rzi7Qx3kJ0tvcizh6n1e",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "杨国安教授最新力作《智在未来：AI时代的企业创新与转型》",
+    "fullTitle": "杨国安教授最新力作《智在未来：AI时代的企业创新与转型》（2026 年 6 月 11 日）",
+    "date": "2026 年 6 月 11 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Bd2FwZn2AiM9ixkuxQscmkgHn4c",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260612",
+    "fullTitle": "腾讯研究院AI速递 20260612（2026 年 6 月 12 日）",
+    "date": "2026 年 6 月 12 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WMv2wJkNli03p1kYEl6c9SK0nJg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
