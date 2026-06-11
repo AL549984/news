@@ -2140,5 +2140,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/JxRbwYnkmiTvfYkU1IEc1qAlnOk",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "那些跑通 AI 变革的团队做对了什么？",
+    "fullTitle": "那些跑通 AI 变革的团队做对了什么？（2026 年 6 月 10 日）",
+    "date": "2026 年 6 月 10 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FozfwKAsziLhdnk8MjFcKvb2nOB",
+    "images": 2,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260611",
+    "fullTitle": "腾讯研究院AI速递 20260611（2026 年 6 月 11 日）",
+    "date": "2026 年 6 月 11 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WByUwaMgki5JAOkFEMzc66wyndg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
