@@ -2185,5 +2185,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WMv2wJkNli03p1kYEl6c9SK0nJg",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI世代，警惕一场静悄悄发生的“认知投降”",
+    "fullTitle": "AI世代，警惕一场静悄悄发生的“认知投降”（2026 年 6 月 12 日）",
+    "date": "2026 年 6 月 12 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OC2FwhNdSirYLZk1XOHcG8Uinvd",
+    "images": 2,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 6 月 13 日）",
+    "date": "2026 年 6 月 13 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IljTw3X67iiXXCklKqocOygJnxf",
+    "images": 2,
+    "theme": "趋势观察"
   }
 ];
