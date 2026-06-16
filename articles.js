@@ -2203,5 +2203,50 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IljTw3X67iiXXCklKqocOygJnxf",
     "images": 2,
     "theme": "趋势观察"
+  },
+  {
+    "title": "AI在医疗中的100步还没走到第1步",
+    "fullTitle": "AI在医疗中的100步还没走到第1步（2026 年 6 月 15 日）",
+    "date": "2026 年 6 月 15 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GUHfwambHiyXx4km4eFc5GxNn0f",
+    "images": 1,
+    "theme": "教育与公共服务"
+  },
+  {
+    "title": "招募｜我们想和青少年聊聊，他们眼中的“真”与“假”",
+    "fullTitle": "招募｜我们想和青少年聊聊，他们眼中的“真”与“假”（2026 年 6 月 15 日）",
+    "date": "2026 年 6 月 15 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QSFxwgLnJindack65WPcjv67n7b",
+    "images": 2,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260615",
+    "fullTitle": "腾讯研究院AI速递 20260615（2026 年 6 月 15 日）",
+    "date": "2026 年 6 月 15 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XEJVwCrOYiUzAwkodzicHP8cnlc",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "为何企业80%的AI投入看不到效果？｜AI时代企业变革的认知方法论与战略判断框架",
+    "fullTitle": "为何企业80%的AI投入看不到效果？｜AI时代企业变革的认知方法论与战略判断框架（2026 年 6 月 16 日）",
+    "date": "2026 年 6 月 16 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IAPcwAB6giHsLpkCclVcdwsgnrf",
+    "images": 27,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260616",
+    "fullTitle": "腾讯研究院AI速递 20260616（2026 年 6 月 16 日）",
+    "date": "2026 年 6 月 16 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VYgrwCZIgiTdWDkiVfKc0qkenPd",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
