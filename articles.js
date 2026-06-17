@@ -2248,5 +2248,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VYgrwCZIgiTdWDkiVfKc0qkenPd",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "大家都在谈“AI素养”，说的是同一件事吗？",
+    "fullTitle": "大家都在谈“AI素养”，说的是同一件事吗？（2026 年 6 月 17 日）",
+    "date": "2026 年 6 月 17 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VmcEwIz8Ri5bobkeCuRc40C4nDe",
+    "images": 5,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260617",
+    "fullTitle": "腾讯研究院AI速递 20260617（2026 年 6 月 17 日）",
+    "date": "2026 年 6 月 17 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/StMtwsC6AiYA5YkOaJscGHXqn4c",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
