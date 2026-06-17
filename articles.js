@@ -2266,5 +2266,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/StMtwsC6AiYA5YkOaJscGHXqn4c",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260618",
+    "fullTitle": "腾讯研究院AI速递 20260618（2026 年 6 月 18 日）",
+    "date": "2026 年 6 月 18 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/E9lXwII8hiUVuUkEfN7cmwQdnCb",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
