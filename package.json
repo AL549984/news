@@ -6,7 +6,11 @@
   "type": "module",
   "scripts": {
     "dev": "npx --yes serve . -l 5173",
-    "start": "npx --yes serve . -l 5173"
+    "start": "npx --yes serve . -l 5173",
+    "export:articles": "python3 scripts/export_tencent_research_site_articles.py",
+    "trigger:dev": "npx --yes trigger.dev@latest dev",
+    "trigger:deploy": "npx --yes trigger.dev@latest deploy",
+    "typecheck": "tsc --noEmit"
   },
   "keywords": [
     "tencent-research",
@@ -15,5 +19,15 @@
     "klein-blue",
     "static-site"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@trigger.dev/python": "^4.4.6",
+    "@trigger.dev/sdk": "^4.4.6",
+    "ssh2": "^1.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "@types/ssh2": "^1.15.5",
+    "typescript": "^5.9.3"
+  }
 }

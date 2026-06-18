@@ -43,6 +43,75 @@ python3 -m http.server 5173
 # 方式三：直接用浏览器打开 index.html
 ```
 
+## Trigger.dev 自动更新
+
+项目已经内置 Trigger.dev 定时任务，用来把腾讯研究院同步结果发布到前端仓库：
+
+```
+trigger.config.ts                         Trigger.dev 项目配置
+trigger/tencent-research.ts               每天 19:00 的同步 / 发布任务
+scripts/export_tencent_research_site_articles.py
+                                           state.json -> articles.js 导出器
+.env.example                              Dashboard / 本地环境变量模板
+```
+
+默认任务 `sync-tencent-research-site` 会在生产环境按 `0 19 * * *`、`Asia/Shanghai` 运行。`TRIGGER_PROJECT_REF` 必须来自当前 CLI profile 有权限访问的 Trigger.dev 项目。流程是：
+
+1. 如果存在 `scripts/sync_tencent_research_wechat_to_feishu_wiki.py`，先执行公众号到飞书 Wiki 的同步脚本。
+2. 如果存在 `data/tencent_research_wechat_wiki/state.json`，执行导出器生成 `articles.js`。
+3. 如果 `GITHUB_TOKEN` 已配置，将 `articles.js` 写回 `AL549984/news` 的 `main` 分支，触发 Vercel 重新部署。
+
+本地开发：
+
+```bash
+cp .env.example .env
+npm run trigger:dev
+```
+
+部署到 Trigger.dev：
+
+```bash
+npm run trigger:deploy
+```
+
+Dashboard 里至少需要配置：
+
+```bash
+TRIGGER_PROJECT_REF=proj_xxx
+TRIGGER_SECRET_KEY=tr_prod_xxx
+GITHUB_TOKEN=github_pat_xxx
+GITHUB_REPOSITORY=AL549984/news
+GITHUB_BRANCH=main
+```
+
+如果本地 deploy 提示 `Project not found`，说明当前 CLI profile 登录的账号无权访问这个 `TRIGGER_PROJECT_REF`。先运行：
+
+```bash
+npx --yes trigger.dev@latest list-profiles
+npx --yes trigger.dev@latest whoami
+npx --yes trigger.dev@latest login --profile tencent-research --no-browser
+npx --yes trigger.dev@latest deploy --dry-run --profile tencent-research
+```
+
+也可以不用本机 profile，改用正确账号生成的 Personal Access Token。Token 必须以 `tr_pat_` 开头，并且要作为 shell 环境变量传给 CLI：
+
+```bash
+export TRIGGER_ACCESS_TOKEN=tr_pat_xxx
+export TRIGGER_PROJECT_REF=proj_xxx
+npm run trigger:deploy -- --dry-run
+```
+
+注意：`deploy` 会在读取 `.env` 之前先认证，所以 `TRIGGER_ACCESS_TOKEN` 不要只写进 `.env`，要先 `export` 到当前 shell。
+
+如果真实同步脚本或状态文件路径不同，用这些变量覆盖：
+
+```bash
+TENCENT_RESEARCH_SYNC_SCRIPT=./scripts/sync_tencent_research_wechat_to_feishu_wiki.py
+TENCENT_RESEARCH_EXPORT_SCRIPT=./scripts/export_tencent_research_site_articles.py
+TENCENT_RESEARCH_STATE_PATH=./data/tencent_research_wechat_wiki/state.json
+TENCENT_RESEARCH_ARTICLES_PATH=./articles.js
+```
+
 ## 自定义
 
 - **配色**：修改 `styles.css` 中 `:root` 的 `--blue`、`--cyan` 等令牌。

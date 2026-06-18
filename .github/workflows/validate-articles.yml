@@ -1,0 +1,71 @@
+name: Validate articles data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - articles.js
+      - .github/workflows/validate-articles.yml
+  pull_request:
+    paths:
+      - articles.js
+      - .github/workflows/validate-articles.yml
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Validate articles.js
+        run: |
+          node <<'NODE'
+          const fs = require("node:fs");
+          const vm = require("node:vm");
+
+          const text = fs.readFileSync("articles.js", "utf8");
+          const sandbox = { window: {} };
+          vm.runInNewContext(text, sandbox, { filename: "articles.js" });
+
+          const articles = sandbox.window.ARTICLES;
+          if (!Array.isArray(articles)) {
+            throw new Error("window.ARTICLES must be an array");
+          }
+
+          if (articles.length < 1) {
+            throw new Error("window.ARTICLES is empty");
+          }
+
+          const requiredFields = ["title", "fullTitle", "date", "month", "url", "theme"];
+          const urls = new Set();
+          const failures = [];
+
+          for (const [index, article] of articles.entries()) {
+            for (const field of requiredFields) {
+              if (!String(article[field] ?? "").trim()) {
+                failures.push(`#${index} missing ${field}`);
+              }
+            }
+
+            if (!/^https:\/\/ycn3zdw6f1p7\.feishu\.cn\/wiki\//.test(String(article.url ?? ""))) {
+              failures.push(`#${index} invalid Feishu wiki URL: ${article.url}`);
+            }
+
+            if (urls.has(article.url)) {
+              failures.push(`#${index} duplicate URL: ${article.url}`);
+            }
+            urls.add(article.url);
+          }
+
+          if (failures.length) {
+            console.error(failures.slice(0, 50).join("\n"));
+            throw new Error(`${failures.length} article validation errors`);
+          }
+
+          console.log(`Validated ${articles.length} articles.`);
+          NODE
