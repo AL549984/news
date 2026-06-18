@@ -2275,5 +2275,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/E9lXwII8hiUVuUkEfN7cmwQdnCb",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "欢迎来到人类溢价时代",
+    "fullTitle": "欢迎来到人类溢价时代（2026 年 6 月 18 日）",
+    "date": "2026 年 6 月 18 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/KfHowfdBiirvJBkj0SVc35D2nhe",
+    "images": 1,
+    "theme": "AI 治理与社会"
   }
 ];
