@@ -8,6 +8,7 @@
     "dev": "npx --yes serve . -l 5173",
     "start": "npx --yes serve . -l 5173",
     "export:articles": "python3 scripts/export_tencent_research_site_articles.py",
+    "validate:articles": "node scripts/validate_articles_js.mjs",
     "trigger:dev": "npx --yes trigger.dev@latest dev",
     "trigger:deploy": "npx --yes trigger.dev@latest deploy",
     "typecheck": "tsc --noEmit"
