@@ -2284,5 +2284,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/KfHowfdBiirvJBkj0SVc35D2nhe",
     "images": 1,
     "theme": "AI 治理与社会"
+  },
+  {
+    "title": "我们为何总是错判AI？——AI的预测悖论",
+    "fullTitle": "我们为何总是错判AI？——AI的预测悖论（2026 年 6 月 22 日）",
+    "date": "2026 年 6 月 22 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/LDfTwWRmFi0iDGkuaL0ceEALnyc",
+    "images": 6,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260622",
+    "fullTitle": "腾讯研究院AI速递 20260622（2026 年 6 月 22 日）",
+    "date": "2026 年 6 月 22 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XskTwWxl6i8gZBkO3Y0ctRc3nrh",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
