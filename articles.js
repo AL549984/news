@@ -2311,5 +2311,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QrOJw17lsizstQkqrqmcOxmfnkb",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI分身时代，你的“在场”正在被重新定价",
+    "fullTitle": "AI分身时代，你的“在场”正在被重新定价（2026 年 6 月 23 日）",
+    "date": "2026 年 6 月 23 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VYOhwQsWQiuAj7kQyiRc5ludnBG",
+    "images": 1,
+    "theme": "趋势观察"
   }
 ];
