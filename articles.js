@@ -2320,5 +2320,41 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VYOhwQsWQiuAj7kQyiRc5ludnBG",
     "images": 1,
     "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260624",
+    "fullTitle": "腾讯研究院AI速递 20260624（2026 年 6 月 24 日）",
+    "date": "2026 年 6 月 24 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IOL9w1zHuiBsnxknb5PcGA6rnlh",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "重新计量普惠：100位AI创造者的一手实践",
+    "fullTitle": "重新计量普惠：100位AI创造者的一手实践（2026 年 6 月 24 日）",
+    "date": "2026 年 6 月 24 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WySHwcho6ijG1VkFvCDcBoIDnCf",
+    "images": 20,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "胡泳：故事机器、AI 短剧与文化工业的算法化",
+    "fullTitle": "胡泳：故事机器、AI 短剧与文化工业的算法化（2026 年 6 月 25 日）",
+    "date": "2026 年 6 月 25 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/N6IZwsb4Iion1PklCgdcHayknoh",
+    "images": 0,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260625",
+    "fullTitle": "腾讯研究院AI速递 20260625（2026 年 6 月 25 日）",
+    "date": "2026 年 6 月 25 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/RUezwXLEjiz56gkFTeNcAZ8Ynud",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
