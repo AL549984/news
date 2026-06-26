@@ -2365,5 +2365,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CRV7w5O5nipJF2kJy8ocs3lnngg",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI无法教会的三件事",
+    "fullTitle": "AI无法教会的三件事（2026 年 6 月 26 日）",
+    "date": "2026 年 6 月 26 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GO8Vw4GaPik4U5k4Vsyc7aVInef",
+    "images": 1,
+    "theme": "趋势观察"
   }
 ];
