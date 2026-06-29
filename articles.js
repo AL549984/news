@@ -2383,5 +2383,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Qh5JwerE0i3QkWkgDnvcsLovnrb",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "Token不经济",
+    "fullTitle": "Token不经济（2026 年 6 月 29 日）",
+    "date": "2026 年 6 月 29 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Tz3xw9LOiiM2DCkSALBcnIxAnEb",
+    "images": 6,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260629",
+    "fullTitle": "腾讯研究院AI速递 20260629（2026 年 6 月 29 日）",
+    "date": "2026 年 6 月 29 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HKqewsWmViyAKDkyqHQcYww1noL",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
