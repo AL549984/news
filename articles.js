@@ -2401,5 +2401,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HKqewsWmViyAKDkyqHQcYww1noL",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "为什么今天我们需要AI内容观？",
+    "fullTitle": "为什么今天我们需要AI内容观？（2026 年 6 月 30 日）",
+    "date": "2026 年 6 月 30 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/ADCyw2M06i5EMokcBhsccw9xnMg",
+    "images": 3,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260630",
+    "fullTitle": "腾讯研究院AI速递 20260630（2026 年 6 月 30 日）",
+    "date": "2026 年 6 月 30 日",
+    "month": "2026 年 6 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Vef3wRP1ki1ORckdmK8cu3M5nSg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
