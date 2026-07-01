@@ -2428,5 +2428,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NBFUwbw8EiSOiIkN9a7cZdBUnbb",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "如何把超级个体的产能，转化成组织能力？ AI跃迁者调研",
+    "fullTitle": "如何把超级个体的产能，转化成组织能力？ AI跃迁者调研（2026 年 7 月 1 日）",
+    "date": "2026 年 7 月 1 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GKuHwGamCiWtYNkwwzIc5x0Bn3c",
+    "images": 11,
+    "theme": "产业与商业化"
   }
 ];
