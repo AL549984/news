@@ -2437,5 +2437,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GKuHwGamCiWtYNkwwzIc5x0Bn3c",
     "images": 11,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "如果你也想用 AI做一件好事，这里有 40 个灵感支持你开始",
+    "fullTitle": "如果你也想用 AI做一件好事，这里有 40 个灵感支持你开始（2026 年 7 月 2 日）",
+    "date": "2026 年 7 月 2 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SjpSw9AS7iFso1kK72uc7kqpnTf",
+    "images": 30,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260702",
+    "fullTitle": "腾讯研究院AI速递 20260702（2026 年 7 月 2 日）",
+    "date": "2026 年 7 月 2 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OTh2wcJJ4im45Ek9JdJcooVNnrc",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
