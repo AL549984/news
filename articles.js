@@ -2464,5 +2464,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BHrYwhJT5i7QBAksGXsctFTqnMc",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "人机对齐？不，是人正在向机器对齐",
+    "fullTitle": "人机对齐？不，是人正在向机器对齐（2026 年 7 月 3 日）",
+    "date": "2026 年 7 月 3 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Tu78wmsqgi85C2khfU3c5hihnAb",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
