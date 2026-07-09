@@ -2482,5 +2482,77 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FkyrwWdmRiXBuxk6Mmbcg0aunkf",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260706",
+    "fullTitle": "腾讯研究院AI速递 20260706（2026 年 7 月 6 日）",
+    "date": "2026 年 7 月 6 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SHoxwOr30il9s4k0n2LcgQ0Tndg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "开放申请｜2026年度可持续社会价值全球开放研究计划",
+    "fullTitle": "开放申请｜2026年度可持续社会价值全球开放研究计划（2026 年 7 月 7 日）",
+    "date": "2026 年 7 月 7 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EsMzweNqsi5kRrkdLGxc3qAXnDg",
+    "images": 2,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "当6亿玩家想要走上赛场",
+    "fullTitle": "当6亿玩家想要走上赛场（2026 年 7 月 7 日）",
+    "date": "2026 年 7 月 7 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PA86w5vAAituiTk4PHTciY2gnQG",
+    "images": 13,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260707",
+    "fullTitle": "腾讯研究院AI速递 20260707（2026 年 7 月 7 日）",
+    "date": "2026 年 7 月 7 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ap1Pwi4uCiXiEgkGgUxc1gRLn3g",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "来自硅谷一线创业者的 FDE 非共识和落地指南 AI透镜-行业圆桌06",
+    "fullTitle": "来自硅谷一线创业者的 FDE 非共识和落地指南 AI透镜-行业圆桌06（2026 年 7 月 8 日）",
+    "date": "2026 年 7 月 8 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TKQKwLKW4isRg2k9NUecnAEknvh",
+    "images": 12,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260708",
+    "fullTitle": "腾讯研究院AI速递 20260708（2026 年 7 月 8 日）",
+    "date": "2026 年 7 月 8 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MSYswT9VfiWBUakUyGdcyoAmnld",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "OpenAI最终能否盈利？",
+    "fullTitle": "OpenAI最终能否盈利？（2026 年 7 月 9 日）",
+    "date": "2026 年 7 月 9 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QzYNwqyCuihGASkYPA6cGYeAnqg",
+    "images": 11,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260709",
+    "fullTitle": "腾讯研究院AI速递 20260709（2026 年 7 月 9 日）",
+    "date": "2026 年 7 月 9 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XxxswU4rEiYnBBkNIsUcHRhHnfh",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
