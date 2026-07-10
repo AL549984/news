@@ -2563,5 +2563,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SiPlwAw2Ti166RkFynpc0zein21",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI 公司为何把哲学家请进实验室？",
+    "fullTitle": "AI 公司为何把哲学家请进实验室？（2026 年 7 月 10 日）",
+    "date": "2026 年 7 月 10 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Y3iNwUBKYiEMVWkGC94cUMaLnkQ",
+    "images": 4,
+    "theme": "产业与商业化"
   }
 ];
