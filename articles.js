@@ -2581,5 +2581,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Wrk4wVo9Qil21lkNK0kc5cXenFb",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "具身智能的 iPhone时刻要来了吗？｜AI+千行百业洞察",
+    "fullTitle": "具身智能的 iPhone时刻要来了吗？｜AI+千行百业洞察（2026 年 7 月 13 日）",
+    "date": "2026 年 7 月 13 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GIgAw5cc8iKizykNk3lcErLFnJb",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260713",
+    "fullTitle": "腾讯研究院AI速递 20260713（2026 年 7 月 13 日）",
+    "date": "2026 年 7 月 13 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/V4bqwL78jiEhndkd6QFcn7Xgnsb",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
