@@ -2608,5 +2608,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GFWFwG7o6iqgeNkRQR4ccWCInVb",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI与职业这三年：震荡、规律与职业群像",
+    "fullTitle": "AI与职业这三年：震荡、规律与职业群像（2026 年 7 月 14 日）",
+    "date": "2026 年 7 月 14 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CKpNw80kRiMX6VkCRdJcFip9nCO",
+    "images": 12,
+    "theme": "趋势观察"
   }
 ];
