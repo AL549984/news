@@ -2617,5 +2617,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CKpNw80kRiMX6VkCRdJcFip9nCO",
     "images": 12,
     "theme": "趋势观察"
+  },
+  {
+    "title": "AI原生游戏，体验和玩法变了什么 ｜行业圆桌01期",
+    "fullTitle": "AI原生游戏，体验和玩法变了什么 ｜行业圆桌01期（2026 年 7 月 15 日）",
+    "date": "2026 年 7 月 15 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/ET4twNwbMiJuJIkJvwMcJmhBndE",
+    "images": 5,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260715",
+    "fullTitle": "腾讯研究院AI速递 20260715（2026 年 7 月 15 日）",
+    "date": "2026 年 7 月 15 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DSbFwtKI9iCsFLkUgP8cyjPenVg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
