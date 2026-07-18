@@ -2635,5 +2635,59 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DSbFwtKI9iCsFLkUgP8cyjPenVg",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI时代企业何以制胜？需重构AI组织变革的操作系统",
+    "fullTitle": "AI时代企业何以制胜？需重构AI组织变革的操作系统（2026 年 7 月 16 日）",
+    "date": "2026 年 7 月 16 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HpEZwKtiDiyMfek5qdGcOjDnnT5",
+    "images": 2,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "杨斌：To B To C 已经过时，“To A”的新时代来了",
+    "fullTitle": "杨斌：To B To C 已经过时，“To A”的新时代来了（2026 年 7 月 16 日）",
+    "date": "2026 年 7 月 16 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AywWwkECEiPIyNkBiqBcSWflnVg",
+    "images": 1,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260716",
+    "fullTitle": "腾讯研究院AI速递 20260716（2026 年 7 月 16 日）",
+    "date": "2026 年 7 月 16 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/ILSPwaxc7iyqftkuN7rcTCn7nec",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260717",
+    "fullTitle": "腾讯研究院AI速递 20260717（2026 年 7 月 17 日）",
+    "date": "2026 年 7 月 17 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TJzUwRBBtiaiRJkJsh1co23Cnzg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "距离觉醒意识，人工智能还差一具肉身？",
+    "fullTitle": "距离觉醒意识，人工智能还差一具肉身？（2026 年 7 月 17 日）",
+    "date": "2026 年 7 月 17 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NW1gwUtY1iNvBYkxsrecmjt5nnf",
+    "images": 3,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 7 月 18 日）",
+    "date": "2026 年 7 月 18 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/H7DbweYkEiRuywkCvVGchjw1nle",
+    "images": 2,
+    "theme": "趋势观察"
   }
 ];
