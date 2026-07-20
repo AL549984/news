@@ -2689,5 +2689,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/H7DbweYkEiRuywkCvVGchjw1nle",
     "images": 2,
     "theme": "趋势观察"
+  },
+  {
+    "title": "司晓：打造智能经济新形态，我国的综合优势与重点部署",
+    "fullTitle": "司晓：打造智能经济新形态，我国的综合优势与重点部署（2026 年 7 月 20 日）",
+    "date": "2026 年 7 月 20 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PmG4wMfGjibXWxkZyqFciW66nye",
+    "images": 3,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260720",
+    "fullTitle": "腾讯研究院AI速递 20260720（2026 年 7 月 20 日）",
+    "date": "2026 年 7 月 20 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/JHcLwiQsdiBZEFkqtsHc8U6BnIf",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
