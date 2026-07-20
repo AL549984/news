@@ -2707,5 +2707,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/JHcLwiQsdiBZEFkqtsHc8U6BnIf",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260721",
+    "fullTitle": "腾讯研究院AI速递 20260721（2026 年 7 月 21 日）",
+    "date": "2026 年 7 月 21 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AgZwwWcNQiN09MkJc7PcoweDnhd",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
