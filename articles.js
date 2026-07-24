@@ -2770,5 +2770,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FQlkwhm8ZiLn6vkzORJcqIhdnId",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "袁晓辉：AI让每个人都变强了，但为什么公司没跑得更快？",
+    "fullTitle": "袁晓辉：AI让每个人都变强了，但为什么公司没跑得更快？（2026 年 7 月 24 日）",
+    "date": "2026 年 7 月 24 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XiJ8wHC2li7F4SklAxGczSijnMd",
+    "images": 9,
+    "theme": "产业与商业化"
   }
 ];
