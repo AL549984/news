@@ -2779,5 +2779,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XiJ8wHC2li7F4SklAxGczSijnMd",
     "images": 9,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 7 月 25 日）",
+    "date": "2026 年 7 月 25 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ie07wzm6ViHwX8kst1kc3kTJnCb",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
