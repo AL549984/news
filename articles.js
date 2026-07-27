@@ -2797,5 +2797,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GXr4wLAy3ieGYHkHbRKcxTVcnwo",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "技术与叙事：一部关于狂热者与反思者的历史",
+    "fullTitle": "技术与叙事：一部关于狂热者与反思者的历史（2026 年 7 月 27 日）",
+    "date": "2026 年 7 月 27 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TCCswlKOTigL7bkME5rcZ7wJnRe",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
