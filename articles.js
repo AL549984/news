@@ -2815,5 +2815,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/G7Cqww8TYiNauLkViq3cOysPnsf",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "卖 Token还是卖结果：AI 商业模式的几个悖论",
+    "fullTitle": "卖 Token还是卖结果：AI 商业模式的几个悖论（2026 年 7 月 28 日）",
+    "date": "2026 年 7 月 28 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VvvIwh9EYiDbWEkHG27cpclxnAg",
+    "images": 2,
+    "theme": "AI 技术与 Agent"
   }
 ];
