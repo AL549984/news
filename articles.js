@@ -2833,5 +2833,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Z9O0wns2SipWNOkW6XbcwnalnQc",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "人工智能经济的宏观逻辑：K型复苏还是历史的拐点？",
+    "fullTitle": "人工智能经济的宏观逻辑：K型复苏还是历史的拐点？（2026 年 7 月 29 日）",
+    "date": "2026 年 7 月 29 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DHAZwManqif7zHk5XTDckLuanNf",
+    "images": 3,
+    "theme": "产业与商业化"
   }
 ];
