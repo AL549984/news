@@ -2878,5 +2878,41 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FHtvwaUxfiqscoko9JCc37gUnqc",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "辨析AI对经济增长与生产率的影响",
+    "fullTitle": "辨析AI对经济增长与生产率的影响（2026 年 7 月 31 日）",
+    "date": "2026 年 7 月 31 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/UZv6w3JpqiYpE6kZvAVc6kPunEh",
+    "images": 9,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 8 月 1 日）",
+    "date": "2026 年 8 月 1 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/LFwhwXa2ni7rfKkGMkZcddgWnge",
+    "images": 3,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "AI 不自动带来超级组织",
+    "fullTitle": "AI 不自动带来超级组织（2026 年 8 月 3 日）",
+    "date": "2026 年 8 月 3 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/U2PbwmHEui4w3RklxbNcrdGnnff",
+    "images": 3,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "AI不会取代出版，但会重新定义出版",
+    "fullTitle": "AI不会取代出版，但会重新定义出版（2026 年 8 月 4 日）",
+    "date": "2026 年 8 月 4 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/T5CEwZf9fi5z7CkpbTScOaJdnpe",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
