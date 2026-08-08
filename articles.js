@@ -2869,5 +2869,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VVtFwk6WOiKa3Kk0ZSjc80LonFH",
     "images": 4,
     "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 8 月 8 日）",
+    "date": "2026 年 8 月 8 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FHtvwaUxfiqscoko9JCc37gUnqc",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
