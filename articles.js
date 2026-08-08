@@ -2914,5 +2914,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/T5CEwZf9fi5z7CkpbTScOaJdnpe",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "AI产业演化的时间尺度：所处阶段与未来节奏｜基于两个经典框架的探索性分析",
+    "fullTitle": "AI产业演化的时间尺度：所处阶段与未来节奏｜基于两个经典框架的探索性分析（2026 年 7 月 30 日）",
+    "date": "2026 年 7 月 30 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NeOSwohssiblWMkvGsdcPL4Wntd",
+    "images": 9,
+    "theme": "产业与商业化"
   }
 ];
