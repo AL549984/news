@@ -2842,5 +2842,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DHAZwManqif7zHk5XTDckLuanNf",
     "images": 3,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "前线共创，双向赋能：FDE 模式行业观察与实践报告",
+    "fullTitle": "前线共创，双向赋能：FDE 模式行业观察与实践报告（2026 年 8 月 5 日）",
+    "date": "2026 年 8 月 5 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PtGjwp6FZiuizIkX3J7chyWLnqd",
+    "images": 4,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "当智能体真正开始干活，企业管理也该变革了",
+    "fullTitle": "当智能体真正开始干活，企业管理也该变革了（2026 年 8 月 6 日）",
+    "date": "2026 年 8 月 6 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HjL4wf4ygi1cqYkSiStcT61Nnof",
+    "images": 4,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "天才，对AI发展到底有多重要？",
+    "fullTitle": "天才，对AI发展到底有多重要？（2026 年 8 月 7 日）",
+    "date": "2026 年 8 月 7 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VVtFwk6WOiKa3Kk0ZSjc80LonFH",
+    "images": 4,
+    "theme": "趋势观察"
   }
 ];
