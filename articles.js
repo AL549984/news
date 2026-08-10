@@ -2923,5 +2923,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NeOSwohssiblWMkvGsdcPL4Wntd",
     "images": 9,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "世界上最会造机器人的公司为何始终难做大？",
+    "fullTitle": "世界上最会造机器人的公司为何始终难做大？（2026 年 8 月 10 日）",
+    "date": "2026 年 8 月 10 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FuKFwzuDPiljf2kVWOYcD5AOnzb",
+    "images": 4,
+    "theme": "AI 技术与 Agent"
   }
 ];
