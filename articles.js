@@ -2932,5 +2932,113 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FuKFwzuDPiljf2kVWOYcD5AOnzb",
     "images": 4,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260730",
+    "fullTitle": "腾讯研究院AI速递 20260730（2026 年 7 月 30 日）",
+    "date": "2026 年 7 月 30 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/JRVEwrsRtiWGZCkeefhch42Lnnh",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260731",
+    "fullTitle": "腾讯研究院AI速递 20260731（2026 年 7 月 31 日）",
+    "date": "2026 年 7 月 31 日",
+    "month": "2026 年 7 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OaA4wgsYmi1NOSkhHWsca8Xhnyg",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260803",
+    "fullTitle": "腾讯研究院AI速递 20260803（2026 年 8 月 3 日）",
+    "date": "2026 年 8 月 3 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VSH6wftI1ile5KkqnHmcg0qfnBe",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260804",
+    "fullTitle": "腾讯研究院AI速递 20260804（2026 年 8 月 4 日）",
+    "date": "2026 年 8 月 4 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Oob7wiMnRioa5qkLXXxcPgqZnvf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260805",
+    "fullTitle": "腾讯研究院AI速递 20260805（2026 年 8 月 5 日）",
+    "date": "2026 年 8 月 5 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HFS4wMs0TixPfIkGhhVcr1Pcnbh",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260806",
+    "fullTitle": "腾讯研究院AI速递 20260806（2026 年 8 月 6 日）",
+    "date": "2026 年 8 月 6 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MFoKwkXRfipbsekc7wgcwJ45nGf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260807",
+    "fullTitle": "腾讯研究院AI速递 20260807（2026 年 8 月 7 日）",
+    "date": "2026 年 8 月 7 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ew01wYgXFiVOhCkYRO6cfttvnug",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260810",
+    "fullTitle": "腾讯研究院AI速递 20260810（2026 年 8 月 10 日）",
+    "date": "2026 年 8 月 10 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/KT6pw4TCMihJ3IkPNA0cTMZMnTc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "价值对齐是个伪概念",
+    "fullTitle": "价值对齐是个伪概念（2026 年 8 月 11 日）",
+    "date": "2026 年 8 月 11 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/K3IewwmBtikc0FkQCsAcEDOanVf",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260811",
+    "fullTitle": "腾讯研究院AI速递 20260811（2026 年 8 月 11 日）",
+    "date": "2026 年 8 月 11 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/JlFbwa8HaivnRckCFclccnvGnjb",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "硅基经济永不眠",
+    "fullTitle": "硅基经济永不眠（2026 年 8 月 12 日）",
+    "date": "2026 年 8 月 12 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/L0TzwdRm5ikazNkUkVQcySRMnWf",
+    "images": 10,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260812",
+    "fullTitle": "腾讯研究院AI速递 20260812（2026 年 8 月 12 日）",
+    "date": "2026 年 8 月 12 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/D2Akw4q07i8gGgkXLBFcxhqCnbf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
