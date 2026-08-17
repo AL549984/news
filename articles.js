@@ -3040,5 +3040,68 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/D2Akw4q07i8gGgkXLBFcxhqCnbf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "硅谷大厂又不需要伦理学家了",
+    "fullTitle": "硅谷大厂又不需要伦理学家了（2026 年 8 月 13 日）",
+    "date": "2026 年 8 月 13 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FGNtw4XMyifre5kUvPocHGhVnWf",
+    "images": 0,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260813",
+    "fullTitle": "腾讯研究院AI速递 20260813（2026 年 8 月 13 日）",
+    "date": "2026 年 8 月 13 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/KyGgwZSvWiqUo2kSn9Nc9yPEn6g",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "探元计划开放日｜6大AI考古项目齐聚云冈，让AI不止于“看见”，更回答真问题",
+    "fullTitle": "探元计划开放日｜6大AI考古项目齐聚云冈，让AI不止于“看见”，更回答真问题（2026 年 8 月 14 日）",
+    "date": "2026 年 8 月 14 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/M6wzwk2zNiCbjwk3K5bcFh0dnyd",
+    "images": 0,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "江小涓：AI替代就业，人文社科研究应关注“出局者”而非“赢家”",
+    "fullTitle": "江小涓：AI替代就业，人文社科研究应关注“出局者”而非“赢家”（2026 年 8 月 14 日）",
+    "date": "2026 年 8 月 14 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NNyKwh2y6i214GkeDqZckdYwnte",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260814",
+    "fullTitle": "腾讯研究院AI速递 20260814（2026 年 8 月 14 日）",
+    "date": "2026 年 8 月 14 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XVFgwCpSTiuDeMkkYfqcruKknyh",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "DeepSeek的Harness，为何是一头黑色鲸鱼？",
+    "fullTitle": "DeepSeek的Harness，为何是一头黑色鲸鱼？（2026 年 8 月 17 日）",
+    "date": "2026 年 8 月 17 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VTaTw8hNgi5KrOkc7t2cqb2bnkz",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260817",
+    "fullTitle": "腾讯研究院AI速递 20260817（2026 年 8 月 17 日）",
+    "date": "2026 年 8 月 17 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/C8wHwgGSCiLvX4k0OSvcjfhwn5g",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
