@@ -3112,5 +3112,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/V0guwU1ZUiCN5Ik7t7QcG8rXnwh",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "从561个作品看一场游戏黑客松里的AI创作新变化",
+    "fullTitle": "从561个作品看一场游戏黑客松里的AI创作新变化（2026 年 8 月 18 日）",
+    "date": "2026 年 8 月 18 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EkcmwyJxviDD3Gk1RL1cux8HnUf",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
