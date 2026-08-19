@@ -3121,5 +3121,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EkcmwyJxviDD3Gk1RL1cux8HnUf",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势｜3万字报告下载",
+    "fullTitle": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势｜3万字报告下载（2026 年 8 月 19 日）",
+    "date": "2026 年 8 月 19 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Bq2Vw2qFPixsPCk6eB1coQ0TnVe",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260819",
+    "fullTitle": "腾讯研究院AI速递 20260819（2026 年 8 月 19 日）",
+    "date": "2026 年 8 月 19 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Y5oQwPsariYvo5k8JNlcoNrpnEf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
