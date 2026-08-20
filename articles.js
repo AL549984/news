@@ -3139,5 +3139,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Y5oQwPsariYvo5k8JNlcoNrpnEf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "人工智能的五个悖论",
+    "fullTitle": "人工智能的五个悖论（2026 年 8 月 20 日）",
+    "date": "2026 年 8 月 20 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TX9ZwlFTmihey1kTAUscu1zgnlh",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260820",
+    "fullTitle": "腾讯研究院AI速递 20260820（2026 年 8 月 20 日）",
+    "date": "2026 年 8 月 20 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SeJ2wGCICi6rfSk2A0LcLpdpn9d",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
