@@ -3166,5 +3166,50 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Or7RwIXXviAVJqkRXw6c7s9zn6p",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "停一下，我们又该见面了",
+    "fullTitle": "停一下，我们又该见面了（2026 年 8 月 21 日）",
+    "date": "2026 年 8 月 21 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BqF6w3pjliPsjDkJI2Dcz72jn7g",
+    "images": 8,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 8 月 22 日）",
+    "date": "2026 年 8 月 22 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OAgqwba6Ii3m2sk5B5DcdDKtnmd",
+    "images": 3,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "为什么超级个体不需要超级团队？",
+    "fullTitle": "为什么超级个体不需要超级团队？（2026 年 8 月 24 日）",
+    "date": "2026 年 8 月 24 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FEiXwnWvEioRoOkCawtc9rvLn3g",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260824",
+    "fullTitle": "腾讯研究院AI速递 20260824（2026 年 8 月 24 日）",
+    "date": "2026 年 8 月 24 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TUczwytDSi86n5kETIicAYNSn8d",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260825",
+    "fullTitle": "腾讯研究院AI速递 20260825（2026 年 8 月 25 日）",
+    "date": "2026 年 8 月 25 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XdJew9yjDi3QM5kHg0DcwVv4nQe",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
