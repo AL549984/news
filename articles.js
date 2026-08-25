@@ -3220,5 +3220,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BWsswc6foiGyatk6mAbcCqDLnih",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "穿越换挡期：居民消费的韧性与新增长主线",
+    "fullTitle": "穿越换挡期：居民消费的韧性与新增长主线（2026 年 8 月 25 日）",
+    "date": "2026 年 8 月 25 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VHkBwR0bHiamngkK9AVcnWcEnYb",
+    "images": 0,
+    "theme": "产业与商业化"
   }
 ];
