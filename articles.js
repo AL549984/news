@@ -3238,5 +3238,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AWWHwQDt7iXwHskAGJlcur10n1e",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯司晓：当智力有了价格",
+    "fullTitle": "腾讯司晓：当智力有了价格（2026 年 8 月 26 日）",
+    "date": "2026 年 8 月 26 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/UuKEwqEpairTf9kyhxLcCBVgnfd",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
