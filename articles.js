@@ -3247,5 +3247,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/UuKEwqEpairTf9kyhxLcCBVgnfd",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "AI 时代，还需要工匠精神吗？",
+    "fullTitle": "AI 时代，还需要工匠精神吗？（2026 年 8 月 27 日）",
+    "date": "2026 年 8 月 27 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IeT7wjIlciPTIVkircHcLpTzn3d",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260827",
+    "fullTitle": "腾讯研究院AI速递 20260827（2026 年 8 月 27 日）",
+    "date": "2026 年 8 月 27 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Wmlawt26fieC4ykYclVct90PnOc",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
