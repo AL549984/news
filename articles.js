@@ -3265,5 +3265,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Wmlawt26fieC4ykYclVct90PnOc",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯汤道生：和AI一起长跑的这两年",
+    "fullTitle": "腾讯汤道生：和AI一起长跑的这两年（2026 年 8 月 28 日）",
+    "date": "2026 年 8 月 28 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/JbF5wu4XYilOozksb87cLM5cnNO",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260828",
+    "fullTitle": "腾讯研究院AI速递 20260828（2026 年 8 月 28 日）",
+    "date": "2026 年 8 月 28 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AALWw7wlJi2G9tkIrlpcLIFhnY3",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
