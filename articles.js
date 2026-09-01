@@ -3319,5 +3319,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QBYswoE6iiwhuRkvheAc8xXZnPe",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯司晓：词元（Token）是智能时代最显性的脉搏",
+    "fullTitle": "腾讯司晓：词元（Token）是智能时代最显性的脉搏（2026 年 9 月 1 日）",
+    "date": "2026 年 9 月 1 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VQkvwP8ZAisPPAkFuV4cdTgdndf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
