@@ -3301,5 +3301,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EIonwcF7GiJPoNkwsZScZ1cnnzK",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI的蛋糕谁来切？怎么切？一场关于AI政治经济学的讨论",
+    "fullTitle": "AI的蛋糕谁来切？怎么切？一场关于AI政治经济学的讨论（2026 年 8 月 31 日）",
+    "date": "2026 年 8 月 31 日",
+    "month": "2026 年 8 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/YIKcwp4w5ilGs0kd8FPcc4VmnTc",
+    "images": 2,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260901",
+    "fullTitle": "腾讯研究院AI速递 20260901（2026 年 9 月 1 日）",
+    "date": "2026 年 9 月 1 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QBYswoE6iiwhuRkvheAc8xXZnPe",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
