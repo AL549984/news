@@ -3328,5 +3328,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VQkvwP8ZAisPPAkFuV4cdTgdndf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "对话兰小欢：置身 AI 事内，不要拿旧理论硬套新现实｜AI透镜研究系列",
+    "fullTitle": "对话兰小欢：置身 AI 事内，不要拿旧理论硬套新现实｜AI透镜研究系列（2026 年 9 月 2 日）",
+    "date": "2026 年 9 月 2 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DTxbwNwfeiDdWvkyPTucP2p6n0z",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260902",
+    "fullTitle": "腾讯研究院AI速递 20260902（2026 年 9 月 2 日）",
+    "date": "2026 年 9 月 2 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QwXEwCQrGiCGrikTv3DckTlUnTs",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
