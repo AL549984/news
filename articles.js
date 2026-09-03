@@ -3355,5 +3355,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NoPcwTNmdisOSGkWmcyc1I0LnUc",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "程乐松：走出科学主义的迷思",
+    "fullTitle": "程乐松：走出科学主义的迷思（2026 年 9 月 3 日）",
+    "date": "2026 年 9 月 3 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/T2WiwFwgoigBMqkhxu7cC5ien4e",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
