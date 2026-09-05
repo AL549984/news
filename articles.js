@@ -3373,5 +3373,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GdCJwxc9Ai4O3mkcPmFcE7Dinug",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "Stripe 收购 OpenRouter：AI 价值重心的一次迁移",
+    "fullTitle": "Stripe 收购 OpenRouter：AI 价值重心的一次迁移（2026 年 9 月 4 日）",
+    "date": "2026 年 9 月 4 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BXqLw1C4PiHAeOkIj1CcsSB6n0R",
+    "images": 4,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 9 月 5 日）",
+    "date": "2026 年 9 月 5 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/A1mxwKxmyisxiLkKhvGcRP1WnQh",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
