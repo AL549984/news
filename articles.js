@@ -3400,5 +3400,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DYpCwsjbPirPJqkFXihckwDynef",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "从流量逻辑到任务逻辑，AI Agent正在终结互联网的免费午餐",
+    "fullTitle": "从流量逻辑到任务逻辑，AI Agent正在终结互联网的免费午餐（2026 年 9 月 7 日）",
+    "date": "2026 年 9 月 7 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WbyawYRJ1iuHonkMYGzc7CClnkA",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
