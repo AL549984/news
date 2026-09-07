@@ -3391,5 +3391,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/A1mxwKxmyisxiLkKhvGcRP1WnQh",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260907",
+    "fullTitle": "腾讯研究院AI速递 20260907（2026 年 9 月 7 日）",
+    "date": "2026 年 9 月 7 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DYpCwsjbPirPJqkFXihckwDynef",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
