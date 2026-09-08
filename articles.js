@@ -3409,5 +3409,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WbyawYRJ1iuHonkMYGzc7CClnkA",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "探元计划开放日｜6 大 AI 考古项目齐聚云冈，让 AI 不止于“看见”，更回答真问题",
+    "fullTitle": "探元计划开放日｜6 大 AI 考古项目齐聚云冈，让 AI 不止于“看见”，更回答真问题（2026 年 9 月 8 日）",
+    "date": "2026 年 9 月 8 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Mh8Sw6XU2inYZhkF6OgccVZFnbh",
+    "images": 0,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260908",
+    "fullTitle": "腾讯研究院AI速递 20260908（2026 年 9 月 8 日）",
+    "date": "2026 年 9 月 8 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PPEkwP5Q5izt3ykbbsbcVsnUnhg",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
