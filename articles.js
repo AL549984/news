@@ -3427,5 +3427,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PPEkwP5Q5izt3ykbbsbcVsnUnhg",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "永生的代价",
+    "fullTitle": "永生的代价（2026 年 9 月 8 日）",
+    "date": "2026 年 9 月 8 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Jx4zwrngwiGgamkDRPNcoAapnwy",
+    "images": 2,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260909",
+    "fullTitle": "腾讯研究院AI速递 20260909（2026 年 9 月 9 日）",
+    "date": "2026 年 9 月 9 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WHL7w1wxyi6i2uk80dxcRSCqnnm",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
