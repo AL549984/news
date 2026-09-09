@@ -3445,5 +3445,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WHL7w1wxyi6i2uk80dxcRSCqnnm",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "今天，我们不想只聊超级个体，还想聊人人可及",
+    "fullTitle": "今天，我们不想只聊超级个体，还想聊人人可及（2026 年 9 月 9 日）",
+    "date": "2026 年 9 月 9 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Sdh6wYpKJiqi7HkNmpncj3IVnuc",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "有人开灯丨寻找用AI回应真实问题的人",
+    "fullTitle": "有人开灯丨寻找用AI回应真实问题的人（2026 年 9 月 9 日）",
+    "date": "2026 年 9 月 9 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XQlUwFjjIi04q4kiOsNcCfzdn67",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
