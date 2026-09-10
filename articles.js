@@ -3472,5 +3472,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Iiimw2dGEi874ekk4PccIHrun3d",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "智能体如何在企业“上岗”？一份来自制造业实践白皮书的启示",
+    "fullTitle": "智能体如何在企业“上岗”？一份来自制造业实践白皮书的启示（2026 年 9 月 10 日）",
+    "date": "2026 年 9 月 10 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ml2ywz1qvi5RwAk4urScQvz1nbl",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "让AI解决真问题，把人放大｜NOVA全国人工智能创意挑战赛决赛收官",
+    "fullTitle": "让AI解决真问题，把人放大｜NOVA全国人工智能创意挑战赛决赛收官（2026 年 9 月 10 日）",
+    "date": "2026 年 9 月 10 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XoKfwmuxxiM9BhkOiJBcgO2Vn3f",
+    "images": 0,
+    "theme": "文化与内容创新"
   }
 ];
