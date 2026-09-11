@@ -3499,5 +3499,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/L1Q3w2Jgiio8q9kQUsrcIqhpn0r",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI重新定义了好老师",
+    "fullTitle": "AI重新定义了好老师（2026 年 9 月 11 日）",
+    "date": "2026 年 9 月 11 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AGAUwV1xYiRbHYkolf4cvhCQnGb",
+    "images": 0,
+    "theme": "教育与公共服务"
   }
 ];
