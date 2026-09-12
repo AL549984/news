@@ -3508,5 +3508,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AGAUwV1xYiRbHYkolf4cvhCQnGb",
     "images": 0,
     "theme": "教育与公共服务"
+  },
+  {
+    "title": "探元计划开放日｜六大数智活化项目齐聚云居寺，让文化遗产在数字世界“活”起来",
+    "fullTitle": "探元计划开放日｜六大数智活化项目齐聚云居寺，让文化遗产在数字世界“活”起来（2026 年 9 月 11 日）",
+    "date": "2026 年 9 月 11 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Rc9Hwk53ai5yMtkqriMctQtBn8f",
+    "images": 17,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 9 月 12 日）",
+    "date": "2026 年 9 月 12 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Jc2pwQEFZi7OLbkLnUxcxdJSnSc",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
