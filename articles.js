@@ -3526,5 +3526,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Jc2pwQEFZi7OLbkLnUxcxdJSnSc",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "恩格斯停顿的本质是“社会肌少性肥胖”",
+    "fullTitle": "恩格斯停顿的本质是“社会肌少性肥胖”（2026 年 9 月 14 日）",
+    "date": "2026 年 9 月 14 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OfGawJMiHiPA3VkjuVdc4MROn6c",
+    "images": 0,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260914",
+    "fullTitle": "腾讯研究院AI速递 20260914（2026 年 9 月 14 日）",
+    "date": "2026 年 9 月 14 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FWRXwlaAjiIMjCk0QUbcrouHnPe",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
