@@ -3544,5 +3544,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FWRXwlaAjiIMjCk0QUbcrouHnPe",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI 正在“摧毁”数学吗？",
+    "fullTitle": "AI 正在“摧毁”数学吗？（2026 年 9 月 15 日）",
+    "date": "2026 年 9 月 15 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MD1ZwBitFiutSrkHkATcvoh8nyd",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260915",
+    "fullTitle": "腾讯研究院AI速递 20260915（2026 年 9 月 15 日）",
+    "date": "2026 年 9 月 15 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VlY7woDevi8MZnkClHgcsZVinXb",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
