@@ -3562,5 +3562,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VlY7woDevi8MZnkClHgcsZVinXb",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260916",
+    "fullTitle": "腾讯研究院AI速递 20260916（2026 年 9 月 16 日）",
+    "date": "2026 年 9 月 16 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/F4tJw1StViGK48kJD9XcYU4YnFe",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "黄仁勋再谈AI危险论：很多预测都是编的，中国会成为全球开源重要力量",
+    "fullTitle": "黄仁勋再谈AI危险论：很多预测都是编的，中国会成为全球开源重要力量（2026 年 9 月 16 日）",
+    "date": "2026 年 9 月 16 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EBBMwI7W9ifvHlki6IVcI7wtnrf",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
