@@ -3580,5 +3580,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EBBMwI7W9ifvHlki6IVcI7wtnrf",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "AI音乐的丰饶与失衡｜AI破晓",
+    "fullTitle": "AI音乐的丰饶与失衡｜AI破晓（2026 年 9 月 17 日）",
+    "date": "2026 年 9 月 17 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/N5Qcwglbmidgd3kGxIXcc3dUnCb",
+    "images": 0,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260917",
+    "fullTitle": "腾讯研究院AI速递 20260917（2026 年 9 月 17 日）",
+    "date": "2026 年 9 月 17 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/THanwE4GfiiEqckg1kNcJDNxn9d",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
