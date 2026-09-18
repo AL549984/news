@@ -3598,5 +3598,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/THanwE4GfiiEqckg1kNcJDNxn9d",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "杨斌：洞察 Token 经济的“是”与“势”",
+    "fullTitle": "杨斌：洞察 Token 经济的“是”与“势”（2026 年 9 月 18 日）",
+    "date": "2026 年 9 月 18 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/YRWww4VRXiXbhckLcyzcV3CInlN",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260918",
+    "fullTitle": "腾讯研究院AI速递 20260918（2026 年 9 月 18 日）",
+    "date": "2026 年 9 月 18 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/W5J7wKO9PiImTAkzSbpcJxe0nBd",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
