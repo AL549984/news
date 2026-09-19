@@ -3616,5 +3616,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/W5J7wKO9PiImTAkzSbpcJxe0nBd",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 9 月 19 日）",
+    "date": "2026 年 9 月 19 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BmgLwOe0BitXbykX62ncWKF3nhc",
+    "images": 3,
+    "theme": "趋势观察"
   }
 ];
