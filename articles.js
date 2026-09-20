@@ -3625,5 +3625,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BmgLwOe0BitXbykX62ncWKF3nhc",
     "images": 3,
     "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260920",
+    "fullTitle": "腾讯研究院AI速递 20260920（2026 年 9 月 20 日）",
+    "date": "2026 年 9 月 20 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MgZmwn53gi3uvMke5HqcBsBVn2d",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
