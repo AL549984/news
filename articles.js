@@ -3634,5 +3634,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MgZmwn53gi3uvMke5HqcBsBVn2d",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "活动预告 “人工智能用数新趋势、新需求”主题沙龙",
+    "fullTitle": "活动预告 “人工智能用数新趋势、新需求”主题沙龙（2026 年 9 月 21 日）",
+    "date": "2026 年 9 月 21 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/F2d4w33wpiS5jSkqndOc21E9nRb",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "理解 Token， 才能理解 AI 经济",
+    "fullTitle": "理解 Token， 才能理解 AI 经济（2026 年 9 月 21 日）",
+    "date": "2026 年 9 月 21 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FlvgwfUARig0l1kHaRLcWygRnrH",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260921",
+    "fullTitle": "腾讯研究院AI速递 20260921（2026 年 9 月 21 日）",
+    "date": "2026 年 9 月 21 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ky9EwHtnPiiI2HkYEI3copDfn8b",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
