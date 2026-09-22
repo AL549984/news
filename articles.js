@@ -3661,5 +3661,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ky9EwHtnPiiI2HkYEI3copDfn8b",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "当 AI 数字员工上岗，会带来什么？｜AI+千行百业洞察",
+    "fullTitle": "当 AI 数字员工上岗，会带来什么？｜AI+千行百业洞察（2026 年 9 月 22 日）",
+    "date": "2026 年 9 月 22 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/WGvpwgqLJi9qYokzzDFckA6Enxb",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260922",
+    "fullTitle": "腾讯研究院AI速递 20260922（2026 年 9 月 22 日）",
+    "date": "2026 年 9 月 22 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AEEvw3rjLiRtlMkAzgxcloZOnqc",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
