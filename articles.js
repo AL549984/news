@@ -3697,5 +3697,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PdrxwNVY1isk7BkPMWlcFd0anfe",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "这是一篇把“RSI”讲明白的科普级综述",
+    "fullTitle": "这是一篇把“RSI”讲明白的科普级综述（2026 年 9 月 23 日）",
+    "date": "2026 年 9 月 23 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HaQRwF0bwipuNPk8s4wcQ1whnFh",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
