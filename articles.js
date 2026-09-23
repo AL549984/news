@@ -3679,5 +3679,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AEEvw3rjLiRtlMkAzgxcloZOnqc",
     "images": 1,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "当 AI 成为伴侣、家人、同事、知己 故事征集",
+    "fullTitle": "当 AI 成为伴侣、家人、同事、知己 故事征集（2026 年 9 月 23 日）",
+    "date": "2026 年 9 月 23 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AQ5mwfhuiiUXTokCc3ZcyzNin5e",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260923",
+    "fullTitle": "腾讯研究院AI速递 20260923（2026 年 9 月 23 日）",
+    "date": "2026 年 9 月 23 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PdrxwNVY1isk7BkPMWlcFd0anfe",
+    "images": 1,
+    "theme": "AI 技术与 Agent"
   }
 ];
