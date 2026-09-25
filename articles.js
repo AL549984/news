@@ -3715,5 +3715,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DFhUwWtKWiIWuykwHiIcESE4nXe",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "加快发展服务消费 推动消费转型升级",
+    "fullTitle": "加快发展服务消费 推动消费转型升级（2026 年 9 月 24 日）",
+    "date": "2026 年 9 月 24 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/RUVswhnDPiMDH1kqpykcVxBUngb",
+    "images": 0,
+    "theme": "产业与商业化"
   }
 ];
