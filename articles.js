@@ -3724,5 +3724,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/RUVswhnDPiMDH1kqpykcVxBUngb",
     "images": 0,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260928",
+    "fullTitle": "腾讯研究院AI速递 20260928（2026 年 9 月 28 日）",
+    "date": "2026 年 9 月 28 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HoIBw92afi3iwYkJv9acImgVnzh",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院数字内容研究实习生招聘",
+    "fullTitle": "腾讯研究院数字内容研究实习生招聘（2026 年 9 月 28 日）",
+    "date": "2026 年 9 月 28 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Z7tEwyrXEix0DskI5KocGpL8nZe",
+    "images": 0,
+    "theme": "文化与内容创新"
   }
 ];
