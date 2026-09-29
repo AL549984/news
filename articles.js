@@ -3751,5 +3751,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/R6GIw7l2BiQuSNkg2aLcDMoGnGg",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "对话中国首部AI长剧导演：三年后，99%影视内容都要用上AIGC",
+    "fullTitle": "对话中国首部AI长剧导演：三年后，99%影视内容都要用上AIGC（2026 年 9 月 29 日）",
+    "date": "2026 年 9 月 29 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Vo00wGWyciJiE0k7AWHcxPu9nmb",
+    "images": 0,
+    "theme": "文化与内容创新"
   }
 ];
