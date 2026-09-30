@@ -3760,5 +3760,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Vo00wGWyciJiE0k7AWHcxPu9nmb",
     "images": 0,
     "theme": "文化与内容创新"
+  },
+  {
+    "title": "人类体验的消失：我们是否正在失去真实的世界？",
+    "fullTitle": "人类体验的消失：我们是否正在失去真实的世界？（2026 年 9 月 30 日）",
+    "date": "2026 年 9 月 30 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/QWauwdYpYiG0ROkoxaPcDvC9nFG",
+    "images": 0,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "腾讯研究院AI速递 20260930",
+    "fullTitle": "腾讯研究院AI速递 20260930（2026 年 9 月 30 日）",
+    "date": "2026 年 9 月 30 日",
+    "month": "2026 年 9 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CBxAwDJZui4JV8kyYolcNWAhnGd",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
