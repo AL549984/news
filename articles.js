@@ -3787,5 +3787,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OgAYwmFo8irgzSkpyGBcuJminhD",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "穿越分化带：SPIRAL 商业持续螺旋（6+2）—— AI 时代企业战略六步推演框架",
+    "fullTitle": "穿越分化带：SPIRAL 商业持续螺旋（6+2）—— AI 时代企业战略六步推演框架（2026 年 10 月 8 日）",
+    "date": "2026 年 10 月 8 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/As0WwFPkoiCq90kkePGcsv3jnhh",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "中国房地产市场的中长期前景依然值得期待",
+    "fullTitle": "中国房地产市场的中长期前景依然值得期待（2026 年 10 月 9 日）",
+    "date": "2026 年 10 月 9 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VpU5wHZoti7xALkclU7c9eI8nzd",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261009",
+    "fullTitle": "腾讯研究院AI速递 20261009（2026 年 10 月 9 日）",
+    "date": "2026 年 10 月 9 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/W4ekwwqE5iSLKmk2CQgcPERKnjf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
