@@ -3814,5 +3814,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/W4ekwwqE5iSLKmk2CQgcPERKnjf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "直播预告｜AI能否为寒门学子开一扇窗？",
+    "fullTitle": "直播预告｜AI能否为寒门学子开一扇窗？（2026 年 10 月 9 日）",
+    "date": "2026 年 10 月 9 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MP7qwJqP0io7MvkhgZGcaHFHnFe",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
