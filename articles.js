@@ -3877,5 +3877,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Q8tIwJUGciRkrXkX6Sjcfm4mnKc",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "你投入真心的AI伴侣，生杀大权在谁手里？",
+    "fullTitle": "你投入真心的AI伴侣，生杀大权在谁手里？（2026 年 10 月 14 日）",
+    "date": "2026 年 10 月 14 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/RKOGwtknHiIIFAkxzVacM6kwnMc",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "直播预告丨当医学还没有答案，AI能做什么？",
+    "fullTitle": "直播预告丨当医学还没有答案，AI能做什么？（2026 年 10 月 14 日）",
+    "date": "2026 年 10 月 14 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XqnZwTT5LiFd47kjQoPcwTYxn6d",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
