@@ -3832,5 +3832,50 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Imy0wd8LuiqKPRkxuLEcSBvDnKe",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "人工智能本质上只是一种“次生智能”",
+    "fullTitle": "人工智能本质上只是一种“次生智能”（2026 年 10 月 12 日）",
+    "date": "2026 年 10 月 12 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HEqbwfSfOiJ0zRk9cdpcwpVVnMc",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261012",
+    "fullTitle": "腾讯研究院AI速递 20261012（2026 年 10 月 12 日）",
+    "date": "2026 年 10 月 12 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Svg2w3Ui0i9gNlkty3ucby9UnRd",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "人工智能的学术化、集中化、国际化",
+    "fullTitle": "人工智能的学术化、集中化、国际化（2026 年 10 月 13 日）",
+    "date": "2026 年 10 月 13 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/UtvFwZvKki7at5kYOV9cLZfrnZd",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261013",
+    "fullTitle": "腾讯研究院AI速递 20261013（2026 年 10 月 13 日）",
+    "date": "2026 年 10 月 13 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/AYe0wDadhiOHVFkhkLwcGE9xnNe",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261014",
+    "fullTitle": "腾讯研究院AI速递 20261014（2026 年 10 月 14 日）",
+    "date": "2026 年 10 月 14 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Q8tIwJUGciRkrXkX6Sjcfm4mnKc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
