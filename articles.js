@@ -3922,5 +3922,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Q46bwDkPGijS65kGibec31agnBe",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "这波“个人Agent ”集体转向，说明行业的底座换了？",
+    "fullTitle": "这波“个人Agent ”集体转向，说明行业的底座换了？（2026 年 10 月 16 日）",
+    "date": "2026 年 10 月 16 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OIuHwCGpNiIRl6kWcoRc4I6ZnVe",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
