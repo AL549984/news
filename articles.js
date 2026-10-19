@@ -3931,5 +3931,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/OIuHwCGpNiIRl6kWcoRc4I6ZnVe",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI 正在培养“祈使句一代”：习惯被服从，不习惯被拒绝",
+    "fullTitle": "AI 正在培养“祈使句一代”：习惯被服从，不习惯被拒绝（2026 年 10 月 19 日）",
+    "date": "2026 年 10 月 19 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/RcJewQ8zwir0HSktZypcMPD6nlh",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261019",
+    "fullTitle": "腾讯研究院AI速递 20261019（2026 年 10 月 19 日）",
+    "date": "2026 年 10 月 19 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FUznwEY2biStDAko67uci4Ornwb",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
