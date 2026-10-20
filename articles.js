@@ -3949,5 +3949,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FUznwEY2biStDAko67uci4Ornwb",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "一图看懂《银发群体反诈分析报告》",
+    "fullTitle": "一图看懂《银发群体反诈分析报告》（2026 年 10 月 20 日）",
+    "date": "2026 年 10 月 20 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CCeRw7P0jiDG3ck6pQTcIn1GnYC",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261020",
+    "fullTitle": "腾讯研究院AI速递 20261020（2026 年 10 月 20 日）",
+    "date": "2026 年 10 月 20 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/P5CmwX87aiKXXPkgmWCcEJNYnqd",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
