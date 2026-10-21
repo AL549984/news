@@ -3967,5 +3967,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/P5CmwX87aiKXXPkgmWCcEJNYnqd",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "Token三次改名背后，藏着 AI 经济的草蛇灰线",
+    "fullTitle": "Token三次改名背后，藏着 AI 经济的草蛇灰线（2026 年 10 月 21 日）",
+    "date": "2026 年 10 月 21 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Cjrxw4hn9i3jKykKgehcOStenbf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "直播预告丨从超级个体到全员普惠",
+    "fullTitle": "直播预告丨从超级个体到全员普惠（2026 年 10 月 21 日）",
+    "date": "2026 年 10 月 21 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IpUIwx4Z0iTUWikiSx0c7uhincc",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261021",
+    "fullTitle": "腾讯研究院AI速递 20261021（2026 年 10 月 21 日）",
+    "date": "2026 年 10 月 21 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NLWrwlFcOibasLkOUHIcge1enpc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
