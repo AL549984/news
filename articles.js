@@ -3994,5 +3994,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NLWrwlFcOibasLkOUHIcge1enpc",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "从辅助环节走向核心环节：智能体重塑中国制造",
+    "fullTitle": "从辅助环节走向核心环节：智能体重塑中国制造（2026 年 10 月 22 日）",
+    "date": "2026 年 10 月 22 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/ASY0wKwciiJpVfkMeVVcQqOznnc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "后知识社会的五种稀缺能力",
+    "fullTitle": "后知识社会的五种稀缺能力（2026 年 10 月 22 日）",
+    "date": "2026 年 10 月 22 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HdtlwLms6igvw3kBsMecLLdwn7g",
+    "images": 0,
+    "theme": "AI 治理与社会"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261022",
+    "fullTitle": "腾讯研究院AI速递 20261022（2026 年 10 月 22 日）",
+    "date": "2026 年 10 月 22 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IgPfwNcXniYXdFkFrkZcvhAVnvc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
