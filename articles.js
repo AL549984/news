@@ -4021,5 +4021,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IgPfwNcXniYXdFkFrkZcvhAVnvc",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261023",
+    "fullTitle": "腾讯研究院AI速递 20261023（2026 年 10 月 23 日）",
+    "date": "2026 年 10 月 23 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PmFswvb1Aiu6hAkaMgVcB19rnDf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
