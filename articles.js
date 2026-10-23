@@ -4030,5 +4030,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PmFswvb1Aiu6hAkaMgVcB19rnDf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "Token 经济的终点，依然是人",
+    "fullTitle": "Token 经济的终点，依然是人（2026 年 10 月 23 日）",
+    "date": "2026 年 10 月 23 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Kqxiwz5xViPxeSkpurYct0K9njg",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "北京线下｜《Token经济》作者见面会，欢迎预约报名",
+    "fullTitle": "北京线下｜《Token经济》作者见面会，欢迎预约报名（2026 年 10 月 23 日）",
+    "date": "2026 年 10 月 23 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TEohwxQuQiKyv5ki6b4c9uzenmb",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
