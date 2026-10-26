@@ -4048,5 +4048,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/TEohwxQuQiKyv5ki6b4c9uzenmb",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI 写作是一种命运",
+    "fullTitle": "AI 写作是一种命运（2026 年 10 月 26 日）",
+    "date": "2026 年 10 月 26 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Thdfwl8h2iiOnXklsOcc5lDdnde",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261026",
+    "fullTitle": "腾讯研究院AI速递 20261026（2026 年 10 月 26 日）",
+    "date": "2026 年 10 月 26 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MRnOw8MjZilIfXkDHmTcHD0InPc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
