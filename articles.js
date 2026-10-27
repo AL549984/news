@@ -4066,5 +4066,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MRnOw8MjZilIfXkDHmTcHD0InPc",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "从大语言模型迈向世界模型",
+    "fullTitle": "从大语言模型迈向世界模型（2026 年 10 月 27 日）",
+    "date": "2026 年 10 月 27 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PhZpwrAiKiTxiUkXVtQcWXG1nZp",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261027",
+    "fullTitle": "腾讯研究院AI速递 20261027（2026 年 10 月 27 日）",
+    "date": "2026 年 10 月 27 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Pcl0wzyFhiC1S2k1FPrcx2fFnbg",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
