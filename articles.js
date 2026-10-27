@@ -4084,5 +4084,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Pcl0wzyFhiC1S2k1FPrcx2fFnbg",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "我和 AI，有些私事｜腾讯研究院 × 故事FM，10 月 31 日深圳见",
+    "fullTitle": "我和 AI，有些私事｜腾讯研究院 × 故事FM，10 月 31 日深圳见（2026 年 10 月 27 日）",
+    "date": "2026 年 10 月 27 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IDFrwZEv4i8z4OknKoUcMBgjnCd",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
