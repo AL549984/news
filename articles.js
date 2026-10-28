@@ -4093,5 +4093,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IDFrwZEv4i8z4OknKoUcMBgjnCd",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "AI对人到底意味着什么？",
+    "fullTitle": "AI对人到底意味着什么？（2026 年 10 月 28 日）",
+    "date": "2026 年 10 月 28 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Akr9w2DElimDN5kllHjcEnoZn9d",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "十余万条卜辞里的“土方”追问",
+    "fullTitle": "十余万条卜辞里的“土方”追问（2026 年 10 月 28 日）",
+    "date": "2026 年 10 月 28 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Q7hgwiTHCiAfBOkTYGCcjsi7n20",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261028",
+    "fullTitle": "腾讯研究院AI速递 20261028（2026 年 10 月 28 日）",
+    "date": "2026 年 10 月 28 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CrgLwK0AbiCrZhkBnHycFtl9n7g",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
