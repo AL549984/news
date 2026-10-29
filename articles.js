@@ -4120,5 +4120,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CrgLwK0AbiCrZhkBnHycFtl9n7g",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "智能越来越便宜，然后呢？",
+    "fullTitle": "智能越来越便宜，然后呢？（2026 年 10 月 29 日）",
+    "date": "2026 年 10 月 29 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Aq8pwuToxiIaQnkbKHkcsBBvnEd",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261029",
+    "fullTitle": "腾讯研究院AI速递 20261029（2026 年 10 月 29 日）",
+    "date": "2026 年 10 月 29 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FZ8hwfanwi7YTckMvlLcagwWnub",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
