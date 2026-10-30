@@ -4138,5 +4138,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FZ8hwfanwi7YTckMvlLcagwWnub",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "Personal Agent 这次能成吗？",
+    "fullTitle": "Personal Agent 这次能成吗？（2026 年 10 月 30 日）",
+    "date": "2026 年 10 月 30 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/V8HWwv2nZi5OMukJDmjctOapnTS",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261030",
+    "fullTitle": "腾讯研究院AI速递 20261030（2026 年 10 月 30 日）",
+    "date": "2026 年 10 月 30 日",
+    "month": "2026 年 10 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/D086wT7aQiyPDXk9eOkc9NU3n1e",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
