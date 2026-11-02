@@ -4156,5 +4156,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/D086wT7aQiyPDXk9eOkc9NU3n1e",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261102",
+    "fullTitle": "腾讯研究院AI速递 20261102（2026 年 11 月 2 日）",
+    "date": "2026 年 11 月 2 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FxgswKk47ioYnokg4i0cNphwnvd",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "谁在用词元？",
+    "fullTitle": "谁在用词元？（2026 年 11 月 2 日）",
+    "date": "2026 年 11 月 2 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/VjcFw4i34iFPn6kdPtTcCHrTnRg",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
