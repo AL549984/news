@@ -4183,5 +4183,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/L2jfwww7eiNMmxkJywncL9uEnPd",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "如果AGI三年内到来，读博士和终身教职规划还有意义吗？",
+    "fullTitle": "如果AGI三年内到来，读博士和终身教职规划还有意义吗？（2026 年 11 月 3 日）",
+    "date": "2026 年 11 月 3 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/IvplwGViFi15i6kiWLncnZlznze",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
