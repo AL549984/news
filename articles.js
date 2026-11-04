@@ -4201,5 +4201,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XVehwNyDQiJnUZkoaDXcKgrBnwb",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "Hy4 正式发布，为真实生产力而生",
+    "fullTitle": "Hy4 正式发布，为真实生产力而生（2026 年 11 月 4 日）",
+    "date": "2026 年 11 月 4 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MZv5wQtuCiCTSPkssCmcH1eunJg",
+    "images": 0,
+    "theme": "产业与商业化"
   }
 ];
