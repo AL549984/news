@@ -4210,5 +4210,32 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MZv5wQtuCiCTSPkssCmcH1eunJg",
     "images": 0,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "迈向AI原生组织：腾讯的探索样本",
+    "fullTitle": "迈向AI原生组织：腾讯的探索样本（2026 年 11 月 4 日）",
+    "date": "2026 年 11 月 4 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Mjd6wO8aNixCI0kfSY3cbvQ3ndc",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "游戏IP的价值被低估了",
+    "fullTitle": "游戏IP的价值被低估了（2026 年 11 月 5 日）",
+    "date": "2026 年 11 月 5 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PYPrwzjxfiqwcPkj1QecE85xnCg",
+    "images": 0,
+    "theme": "文化与内容创新"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261105",
+    "fullTitle": "腾讯研究院AI速递 20261105（2026 年 11 月 5 日）",
+    "date": "2026 年 11 月 5 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CNkkwUXlliFZ3HkVZSZcZiSgn9e",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
