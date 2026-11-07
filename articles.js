@@ -4246,5 +4246,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/XhbPw7dKCifMD1kiup3cmfzcnje",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+    "fullTitle": "当 AI 在加速狂奔，什么反而应该“慢”下来？（2026 年 11 月 6 日）",
+    "date": "2026 年 11 月 6 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SnYIwqRNCi7SsYklQiXc6Hb1nXe",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI每周关键词Top50",
+    "fullTitle": "腾讯研究院AI每周关键词Top50（2026 年 11 月 7 日）",
+    "date": "2026 年 11 月 7 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DtTIwZkg5ihfhykJKAWcqrocnyg",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
