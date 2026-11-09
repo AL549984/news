@@ -4264,5 +4264,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/DtTIwZkg5ihfhykJKAWcqrocnyg",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "占领火星",
+    "fullTitle": "占领火星（2026 年 11 月 9 日）",
+    "date": "2026 年 11 月 9 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MWTJwtdmpiue5jkoVFicB2z7nzb",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261109",
+    "fullTitle": "腾讯研究院AI速递 20261109（2026 年 11 月 9 日）",
+    "date": "2026 年 11 月 9 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BYmqwfC8IiBOKBkYLqcc0iWPnbc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
