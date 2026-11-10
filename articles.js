@@ -4282,5 +4282,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/BYmqwfC8IiBOKBkYLqcc0iWPnbc",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261110",
+    "fullTitle": "腾讯研究院AI速递 20261110（2026 年 11 月 10 日）",
+    "date": "2026 年 11 月 10 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MP5wwKmx4i7tdWkjEcSc5fqHnk4",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "进入“双智能”时代，我们该如何与AI相处？",
+    "fullTitle": "进入“双智能”时代，我们该如何与AI相处？（2026 年 11 月 10 日）",
+    "date": "2026 年 11 月 10 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/N57OwO1hAiLn3BkAanjcP87jn1d",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
