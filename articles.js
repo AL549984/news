@@ -4309,5 +4309,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/GLv6w1fMAiolxzkE7VCcBEcjnve",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "从AI机遇到现实生产力",
+    "fullTitle": "从AI机遇到现实生产力（2026 年 11 月 11 日）",
+    "date": "2026 年 11 月 11 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CXkOw3ft3iokC5kpn93cBj4knVg",
+    "images": 0,
+    "theme": "产业与商业化"
   }
 ];
