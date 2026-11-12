@@ -4318,5 +4318,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CXkOw3ft3iokC5kpn93cBj4knVg",
     "images": 0,
     "theme": "产业与商业化"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261112",
+    "fullTitle": "腾讯研究院AI速递 20261112（2026 年 11 月 12 日）",
+    "date": "2026 年 11 月 12 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/D7uSwo6QJie3CSkn5pgcqfjRneh",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
