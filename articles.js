@@ -4327,5 +4327,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/D7uSwo6QJie3CSkn5pgcqfjRneh",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261113",
+    "fullTitle": "腾讯研究院AI速递 20261113（2026 年 11 月 13 日）",
+    "date": "2026 年 11 月 13 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/CCz5wWf5XiEXnekIZXFcBG7Dnrg",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "该不该让 AI 替你做人生重大决定？",
+    "fullTitle": "该不该让 AI 替你做人生重大决定？（2026 年 11 月 13 日）",
+    "date": "2026 年 11 月 13 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NiJrw1AISistM0kB3j4c6utznHf",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
