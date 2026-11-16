@@ -4345,5 +4345,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/NiJrw1AISistM0kB3j4c6utznHf",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "生成现实时代，人类该如何拥有彼此？",
+    "fullTitle": "生成现实时代，人类该如何拥有彼此？（2026 年 11 月 16 日）",
+    "date": "2026 年 11 月 16 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/T95TwDHWziSWIok176qcKfHanGf",
+    "images": 0,
+    "theme": "AI 治理与社会"
   }
 ];
