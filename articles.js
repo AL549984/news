@@ -4354,5 +4354,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/T95TwDHWziSWIok176qcKfHanGf",
     "images": 0,
     "theme": "AI 治理与社会"
+  },
+  {
+    "title": "工作不是人生意义的唯一来源",
+    "fullTitle": "工作不是人生意义的唯一来源（2026 年 11 月 17 日）",
+    "date": "2026 年 11 月 17 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/PCIVwWUyBivRxDkkfuTcS7A7ntf",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261117",
+    "fullTitle": "腾讯研究院AI速递 20261117（2026 年 11 月 17 日）",
+    "date": "2026 年 11 月 17 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HeiWwGKUTisrAvkeMNicsIAunxf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
