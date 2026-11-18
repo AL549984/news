@@ -4381,5 +4381,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/UWuMwhYVii17xUkna1McKc5nnAg",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI 给游戏开发按下了乘号键｜行业圆桌对谈02",
+    "fullTitle": "AI 给游戏开发按下了乘号键｜行业圆桌对谈02（2026 年 11 月 18 日）",
+    "date": "2026 年 11 月 18 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SrB4wPGdwikfR9kYNVOcgcx4nFd",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
