@@ -4390,5 +4390,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/SrB4wPGdwikfR9kYNVOcgcx4nFd",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "当智能开始量产，从Anthropic上市看大模型的六个趋势",
+    "fullTitle": "当智能开始量产，从Anthropic上市看大模型的六个趋势（2026 年 11 月 19 日）",
+    "date": "2026 年 11 月 19 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/MF1OwkdoGiQuoOku6FFcNNwXngd",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261119",
+    "fullTitle": "腾讯研究院AI速递 20261119（2026 年 11 月 19 日）",
+    "date": "2026 年 11 月 19 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/R8GdwNe4Hi26WbkohEtcQCAYnwe",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
