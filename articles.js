@@ -4408,5 +4408,41 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/R8GdwNe4Hi26WbkohEtcQCAYnwe",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "AI 时代，企业出海的逻辑变了吗？——信永中和 × 腾讯云联合访谈实录：从产品出海到深度全球化经营",
+    "fullTitle": "AI 时代，企业出海的逻辑变了吗？——信永中和 × 腾讯云联合访谈实录：从产品出海到深度全球化经营（2026 年 11 月 20 日）",
+    "date": "2026 年 11 月 20 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/J6Qmwx3CViFU46kmpUwc6LBWnxd",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "《中国企业出海能力白皮书》，AI 如何重塑企业出海的能力边界？",
+    "fullTitle": "《中国企业出海能力白皮书》，AI 如何重塑企业出海的能力边界？（2026 年 11 月 20 日）",
+    "date": "2026 年 11 月 20 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/EfC1w5Uv7iMDAhk9Y59cCysJnce",
+    "images": 0,
+    "theme": "产业与商业化"
+  },
+  {
+    "title": "直播预告丨AI怎样改变了“看病”这件事？",
+    "fullTitle": "直播预告丨AI怎样改变了“看病”这件事？（2026 年 11 月 20 日）",
+    "date": "2026 年 11 月 20 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/FtNzwf0aJiAJ0YkQHDjc7GMwnah",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261120",
+    "fullTitle": "腾讯研究院AI速递 20261120（2026 年 11 月 20 日）",
+    "date": "2026 年 11 月 20 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/K7GqwtrvOie4cBkcu0cclohunSf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
