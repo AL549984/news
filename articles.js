@@ -4444,5 +4444,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/K7GqwtrvOie4cBkcu0cclohunSf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "当智力可以被计量：我们熟悉的规则会被怎样被改写？",
+    "fullTitle": "当智力可以被计量：我们熟悉的规则会被怎样被改写？（2026 年 11 月 23 日）",
+    "date": "2026 年 11 月 23 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/S6Hvw1K4yiH4mAkDt9LcRfBhnNb",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261123",
+    "fullTitle": "腾讯研究院AI速递 20261123（2026 年 11 月 23 日）",
+    "date": "2026 年 11 月 23 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/X6Vuwltk3idt2SkViYMc8ryqn4d",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
