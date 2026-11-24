@@ -4471,5 +4471,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/U5QwwP0EhiJ59dkEd54cI3O4nch",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "电竞与体育，正在彼此走近",
+    "fullTitle": "电竞与体育，正在彼此走近（2026 年 11 月 24 日）",
+    "date": "2026 年 11 月 24 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HDBWwiNHri9ZZ0k7icNcCD7KnTf",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
