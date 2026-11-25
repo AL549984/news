@@ -4480,5 +4480,14 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HDBWwiNHri9ZZ0k7icNcCD7KnTf",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "写在黎曼猜想被证明之后",
+    "fullTitle": "写在黎曼猜想被证明之后（2026 年 11 月 25 日）",
+    "date": "2026 年 11 月 25 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/E9Zww0iYYiZLsSkRmTwc50jVnfx",
+    "images": 0,
+    "theme": "趋势观察"
   }
 ];
