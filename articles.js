@@ -4489,5 +4489,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/E9Zww0iYYiZLsSkRmTwc50jVnfx",
     "images": 0,
     "theme": "趋势观察"
+  },
+  {
+    "title": "破解AI时代的智力产能过剩",
+    "fullTitle": "破解AI时代的智力产能过剩（2026 年 11 月 26 日）",
+    "date": "2026 年 11 月 26 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/HXYrwepFginY5HkutHsc8FP9njg",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261126",
+    "fullTitle": "腾讯研究院AI速递 20261126（2026 年 11 月 26 日）",
+    "date": "2026 年 11 月 26 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/ILTlwK4cIipotfkOWJ5caWJGnRf",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
