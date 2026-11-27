@@ -4507,5 +4507,23 @@ window.ARTICLES = [
     "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/ILTlwK4cIipotfkOWJ5caWJGnRf",
     "images": 0,
     "theme": "AI 技术与 Agent"
+  },
+  {
+    "title": "我和AI，有些私事丨故事纯享版",
+    "fullTitle": "我和AI，有些私事丨故事纯享版（2026 年 11 月 27 日）",
+    "date": "2026 年 11 月 27 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/KlTqwlPdRipVZOkLHS9cJ30dnZc",
+    "images": 0,
+    "theme": "趋势观察"
+  },
+  {
+    "title": "腾讯研究院AI速递 20261127",
+    "fullTitle": "腾讯研究院AI速递 20261127（2026 年 11 月 27 日）",
+    "date": "2026 年 11 月 27 日",
+    "month": "2026 年 11 月",
+    "url": "https://ycn3zdw6f1p7.feishu.cn/wiki/Ii0dw6rBCi6Efvk1j6gcqcrhnTc",
+    "images": 0,
+    "theme": "AI 技术与 Agent"
   }
 ];
